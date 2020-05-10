@@ -3,10 +3,11 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "Happy Birthday",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "To Bach",  // 同上...
-        "Sending you smiles for every moment of your special day",
-        "Have a wonderful time and a very happy birthday!",
+        "亲爱的老妈",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "今天是母亲节",  // 同上...
+        "明天是你的生日",
+        "在这里祝你每一天都开心健康",
+        "在长成一只健壮的两米萍",
         ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -23,13 +24,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Turn on",
-        play: "Music",
-        bannar_coming: "Color",
-        balloons_flying: "Missing Something",
-        cake_fadein: "Cake?",
-        light_candle: "Candles?",
-        wish_message: "Chúc mừng sinh nhật bạn",
-        story: "PHAM THIEN BACH",
+        turn_on: "开始",
+        play: "音乐呢",
+        bannar_coming: "横幅呢",
+        balloons_flying: "还缺什么呀",
+        cake_fadein: "蛋糕?",
+        light_candle: "蜡烛?",
+        wish_message: "祝萍萍身体健康",
+        story: "不管是什么节目，开心就好哦",
     }
 };
