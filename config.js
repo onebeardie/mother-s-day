@@ -31,6 +31,6 @@ var config = {
         cake_fadein: "蛋糕?",
         light_candle: "蜡烛?",
         wish_message: "祝萍萍身体健康",
-        story: "不管是什么节目，开心就好哦",
+        story: "不管是什么节目，开心每一天",
     }
 };
